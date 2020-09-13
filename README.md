@@ -1,14 +1,14 @@
 # Notes-app
 
 To install node modules
------------------------------
+
 npm install or npm i
------------------------------
+
 
 After installing modules simply run to see all commands to use this application
------------------------------
+
 npm start or node app cmd
------------------------------
+
 
 # Command List 
 
